@@ -1,4 +1,4 @@
-# Animal-Trading-Cards-LAB-1-UDACITY
+# Animal-Trading-Card
 ____________________________________
 
 Implement a web page using HTML & CSS
@@ -10,6 +10,3 @@ Key Takeaways :
 -CSS is used for styling
 ____________________________________
 
-# MY-JOURNEY-as-full-stack-dev
-this is my all my work in my journey in MAC 
-![alt text](https://github.com/mamineofficial/Animal-Trading-Cards-LAB-1-UDACITY/blob/master/design%20prototype.JPG)
